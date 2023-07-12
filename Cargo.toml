@@ -1,6 +1,7 @@
 [package]
 name = "rexserver"
-version = "0.1.0"
+description = "rex backend framework"
+version = "0.1.1"
 edition = "2021"
 authors = ["@fromafrica"]
 homepage = "https://rex.rs"
